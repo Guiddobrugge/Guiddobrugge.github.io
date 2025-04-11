@@ -12,18 +12,14 @@
       "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-10-mm.json",
       "type": "Manifest",
       "label": {
-        "nl": [
-          "Portret van een lid van de familie De Rojas"
-        ]
+        "nl": ["Portret van een lid van de familie De Rojas"]
       }
     },
     {
       "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-13-mm.json",
       "type": "Manifest",
       "label": {
-        "nl": [
-          "Drieluik van Johannes de Doper en Johannes de Evangelist"
-        ]
+        "nl": ["Drieluik van Johannes de Doper en Johannes de Evangelist"]
       }
     },
     {
