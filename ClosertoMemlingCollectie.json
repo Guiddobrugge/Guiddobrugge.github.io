@@ -32,6 +32,12 @@
       "height": 100
     }
   ],
+  "homepage": [{
+  "id": "https://closertomemling.be/nl/home",
+  "type": "Text",
+  "label": { "nl": ["Meer over de collectie"] }
+    }
+  ],
   "items": [
     {
       "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-10-mm.json",
