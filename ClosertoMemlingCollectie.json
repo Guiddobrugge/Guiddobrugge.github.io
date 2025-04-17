@@ -32,7 +32,7 @@
       "height": 100
     }
   ],
-  "homepage": [{
+  "related": [{
   "id": "https://closertomemling.be/nl/home",
   "type": "Text",
   "label": { "nl": ["Meer over de collectie"] }
