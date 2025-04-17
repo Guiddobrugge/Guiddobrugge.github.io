@@ -8,7 +8,8 @@
   "description": {
     "nl": ["Een verzameling van alle werken van Hans Memling uit de collectie van Musea Brugge"]
   },
-  "logo": {"nl": ["https://guiddobrugge.github.io/MB_Logo_Standard_Black.png"]
+  "logo": {
+    "nl": ["https://guiddobrugge.github.io/MB_Logo_Standard_Black.png"]
   },
   "items": [
     {
