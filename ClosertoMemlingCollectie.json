@@ -3,10 +3,16 @@
   "id": "https://guiddobrugge.github.io/ClosertoMemlingCollectie.json",
   "type": "Collection",
   "label": {
-    "nl": ["Closer to Memling collectie"]
+    "nl": ["Closer to Memling collectie"
+    ]
   },
   "description": {
-    "nl": ["Een verzameling van alle werken van Hans Memling in de collectie van Musea Brugge"]
+    "nl": ["Een verzameling van alle werken van Hans Memling in de collectie van Musea Brugge"
+    ]
+  },
+  "requiredStatement": {
+      "label": {"nl": ["Toekenning"] },
+      "value": {"en": ["Ter beschikking gesteld door Musea Brugge"]}
   },
   "thumbnail": [
     {
