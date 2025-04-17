@@ -8,10 +8,24 @@
   "description": {
     "nl": ["Een verzameling van alle werken van Hans Memling uit de collectie van Musea Brugge"]
   },
-  "thumbnail": "https://guiddobrugge.github.io/MB-Logo-Standard-Black.png"
-  ,
-  "logo": "https://guiddobrugge.github.io/MB-Logo-Standard-Black.png"
-  ,
+  "thumbnail": [
+    {
+      "id": "https://guiddobrugge.github.io/MB-Logo-Standard-Black.png",
+      "type": "Image",
+      "format": "image/png",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "logo": [
+    {
+      "id": "https://guiddobrugge.github.io/MB-Logo-Standard-Black.png",
+      "type": "Image",
+      "format": "image/png",
+      "width": 100,
+      "height": 100
+    }
+  ],
   "items": [
     {
       "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-10-mm.json",
