@@ -34,17 +34,17 @@
   ],
   "items": [
     {
-      "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-10-mm.json",
+      "id": "https://api.artic.edu/api/v1/artworks/16295/manifest.json",
       "type": "Manifest",
       "label": {
-        "nl": ["Portret van een lid van de familie De Rojas"]
+        "en": ["Virgin and Child"]
       }
     },
     {
-      "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-13-mm.json",
+      "id": "https://api.artic.edu/api/v1/artworks/79777/manifest.json",
       "type": "Manifest",
       "label": {
-        "nl": ["Drieluik van Johannes de Doper en Johannes de Evangelist"]
+        "en": ["Portrait of a Donor (recto); Saint Anthony of Padua (reverse)"]
       }
     },
     {
