@@ -32,12 +32,6 @@
       "height": 100
     }
   ],
-  "related": [{
-  "id": "https://closertomemling.be/nl/home",
-  "type": "Text",
-  "label": { "nl": ["Meer over de collectie"] }
-    }
-  ],
   "items": [
     {
       "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-10-mm.json",
@@ -86,6 +80,20 @@
       "type": "Manifest",
       "label": {
         "nl": ["Reliekschrijn van de Heilige Ursula"]
+      }
+    },
+    {
+      "id": "https://dam.museabrugge.be/memling/manifests/manifest-2-mm.json",
+      "type": "manifest",
+      "label": {
+        "nl": ["Moreel-triptiek"]
+      }
+    },
+    {
+      "id": "https://dam.museabrugge.be/memling/manifests/manifest-1-mm.json",
+      "type": "manifest",
+      "label": {
+        "nl": ["Annunciatie"]
       }
     }
   ]
