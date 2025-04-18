@@ -1,0 +1,100 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://guiddobrugge.github.io/ClosertoMemlingCollectie.json",
+  "type": "Collection",
+  "label": {
+    "nl": ["Closer to Memling collectie"
+    ]
+  },
+  "description": {
+    "nl": ["Een verzameling van alle werken van Hans Memling beschikbaar in IIIF buiten de collectie van Musea Brugge"
+    ]
+  },
+  "requiredStatement": {
+      "label": {"nl": ["Attribution"] },
+      "value": {"nl": ["Ter beschikking gesteld door Musea Brugge"]}
+  },
+  "thumbnail": [
+    {
+      "id": "https://guiddobrugge.github.io/MB-Logo-Standard-Black.png",
+      "type": "Image",
+      "format": "image/png",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "logo": [
+    {
+      "id": "https://guiddobrugge.github.io/MB-Logo-Standard-Black.png",
+      "type": "Image",
+      "format": "image/png",
+      "width": 100,
+      "height": 100
+    }
+  ],
+  "items": [
+    {
+      "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-10-mm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": ["Portret van een lid van de familie De Rojas"]
+      }
+    },
+    {
+      "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-13-mm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": ["Drieluik van Johannes de Doper en Johannes de Evangelist"]
+      }
+    },
+    {
+      "id": "https://dam.museabrugge.be/memling/manifests/manifest-11-mm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": ["Drieluik met Aanbidding der Wijzen"]
+      }
+    },
+    {
+      "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-16-mm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": ["Drieluik met de Bewening van Christus"]
+      }
+    },
+    {
+      "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-12-mm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": ["Portret van een jonge vrouw of Sibylla Sambetha"]
+      }
+    },
+    {
+      "id": "https://iiif.universumdigitalis.com/memling/manifests/manifest-17-mm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": ["Diptiek van Maarten van Nieuwenhove"]
+      }
+    },
+    {
+      "id": "https://dam.museabrugge.be/memling/manifests/manifest-14.json",
+      "type": "Manifest",
+      "label": {
+        "nl": ["Reliekschrijn van de Heilige Ursula"]
+      }
+    },
+    {
+      "id": "https://dam.museabrugge.be/memling/manifests/manifest-2-mm.json",
+      "type": "manifest",
+      "label": {
+        "nl": ["Moreel-triptiek"]
+      }
+    },
+    {
+      "id": "https://dam.museabrugge.be/memling/manifests/manifest-1-mm.json",
+      "type": "manifest",
+      "label": {
+        "nl": ["Annunciatie"]
+      }
+    }
+  ]
+}
