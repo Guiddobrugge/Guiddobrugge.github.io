@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": ["Hans Memling, 'The Donne Triptych', about 1478"]
+  },
+  "items": [
+    {
+      "items": [
+        {
+          "items": [
+            {
+              "motivation": "painting",
+              "body": {
+                "width": 25000,
+                "height": 16000,
+                "duration": 0.0,
+                "service": [
+                  {
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "id": "https://www.nationalgallery.org.uk/server.iip?IIIF=/groups/N-6275-00-000052-WZ-PYR.tif",
+                    "type": "ImageService"
+                  }
+                ],
+                "id": "",
+                "type": ""
+              },
+              "target": "https://www.nationalgallery.org.uk/paintings/hans-memling-the-donne-triptych?altTemplate=PaintingManifest&zoomImageType=Group&layout=banner/canvas",
+              "id": "https://www.nationalgallery.org.uk/paintings/hans-memling-the-donne-triptych?altTemplate=PaintingManifest&zoomImageType=Group&layout=banner/ann",
+              "type": "Annotation"
+            }
+          ],
+          "id": "https://www.nationalgallery.org.uk/paintings/hans-memling-the-donne-triptych?altTemplate=PaintingManifest&zoomImageType=Group&layout=banner/annPage",
+          "type": "AnnotationPage"
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "en": ["Download filename"]
+          },
+          "value": {
+            "en": ["N-6275-00-000052-wpu.jpg"]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "width": 120,
+          "height": 59,
+          "duration": 0.0,
+          "format": "image/jpeg",
+          "id": "https://www.nationalgallery.org.uk/server.iip?IIIF=/groups/N-6275-00-000052-WZ-PYR.tif/full/120,59/0/default.jpg",
+          "type": "Image"
+        }
+      ],
+      "width": 6000,
+      "height": 2980,
+      "duration": 0.0,
+      "rendering": [
+        {
+          "label": {
+            "en": ["Download URL"]
+          },
+          "format": "image/jpeg",
+          "id": "https://www.nationalgallery.org.uk/umbraco/surface/DownloadImage?zoomImageFileName=N-6275-00-000052-WZ-PYR.tif&zoomImageType=Group",
+          "type": "Image"
+        }
+      ],
+      "id": "https://www.nationalgallery.org.uk/paintings/hans-memling-the-donne-triptych?altTemplate=PaintingManifest&zoomImageType=Group&layout=banner/canvas",
+      "type": "Canvas"
+    }
+  ],
+  "homepage": [
+    {
+      "label": {
+        "en": ["Hans Memling, 'The Donne Triptych', about 1478 | National Gallery, London"]
+      },
+      "format": "text/html",
+      "language": "en",
+      "id": "https://www.nationalgallery.org.uk/paintings/hans-memling-the-donne-triptych",
+      "type": "text"
+    }
+  ],
+  "id": "https://www.nationalgallery.org.uk/paintings/hans-memling-the-donne-triptych?altTemplate=PaintingManifest&zoomImageType=Group&layout=banner",
+  "type": "Manifest"
+}
