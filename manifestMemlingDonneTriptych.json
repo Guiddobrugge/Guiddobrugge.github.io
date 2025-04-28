@@ -16,7 +16,7 @@
                 "duration": 0.0,
                 "service": [
                   {
-                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "profile": "http://iiif.io/api/image/3/level1.json",
                     "id": "https://www.nationalgallery.org.uk/server.iip?IIIF=/groups/N-6275-00-000052-WZ-PYR.tif",
                     "type": "ImageService"
                   }
