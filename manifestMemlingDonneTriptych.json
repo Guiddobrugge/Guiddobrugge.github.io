@@ -21,8 +21,8 @@
                     "type": "ImageService"
                   }
                 ],
-                "id": "",
-                "type": ""
+                "id": "https://www.nationalgallery.org.uk/server.iip?IIIF=/groups/N-6275-00-000052-WZ-PYR.tif/full/120,59/0/default.jpg",
+                "type": "image"
               },
               "target": "https://www.nationalgallery.org.uk/paintings/hans-memling-the-donne-triptych?altTemplate=PaintingManifest&zoomImageType=Group&layout=banner/canvas",
               "id": "https://www.nationalgallery.org.uk/paintings/hans-memling-the-donne-triptych?altTemplate=PaintingManifest&zoomImageType=Group&layout=banner/ann",
